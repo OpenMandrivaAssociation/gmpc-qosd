@@ -1,7 +1,7 @@
 Summary:	A qosd on screen display plugin for gmpc
 Name:		gmpc-qosd
 Version:	0.15.5.0
-Release:	%mkrel 3
+Release:	%mkrel 4
 License:	GPLv2+
 Group:		Sound
 Url:		http://www.sarine.nl//q-on-screen-display
