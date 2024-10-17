@@ -4,7 +4,7 @@ Version:	0.15.5.0
 Release:	5
 License:	GPLv2+
 Group:		Sound
-Url:		http://www.sarine.nl//q-on-screen-display
+Url:		https://www.sarine.nl//q-on-screen-display
 Source0:	http://download.sarine.nl/download/gmpc-0.15.5/%{name}-%{version}.tar.bz2
 BuildRequires:	libmpd-devel
 BuildRequires:	pkgconfig(libxml-2.0)
